@@ -1,7 +1,7 @@
 
 # Todoey ✓
 
-A todolist app to keel track of all tasks.
+A todolist app to keep track of all tasks.
 
 ## Learned
 
