@@ -12,5 +12,7 @@ struct K {
     static let toDoCellIdentifier = "ToDoItemCell"
     static let appTitle = "Todoey"
     static let todoListDefaultsKey = "TodoListArray"
+    static let goToItemsSegueIdentifier = "GoToItems"
+    static let categoryCellIdentifier = "CategoryCell"
 }
 
